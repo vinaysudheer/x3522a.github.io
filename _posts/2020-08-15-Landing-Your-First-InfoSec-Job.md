@@ -1,6 +1,3 @@
-# **Landing Your First InfoSec Job**
-
-
 
 **Introduction:**
 
