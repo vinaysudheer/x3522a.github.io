@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Transitioning to a Machine"
+title                    : "Transitioning To A Machine"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "X3522A"
@@ -98,7 +98,7 @@ author:
   name             : "X3522A"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "OSCP | Idi0t"
-  location         : "God's own Country"
+  location         : "God's Own Country"
   email            : 
   links:
     - label: "Email"
