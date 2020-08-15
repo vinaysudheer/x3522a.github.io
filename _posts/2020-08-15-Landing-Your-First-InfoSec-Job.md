@@ -59,11 +59,3 @@ Always set your goal and stay focused – Set yourself a goal, be it the next bi
 Surround yourself with likeminded people – By likeminded people I mean people who share the same passion and interest for security as you. Join a InfoSec community you like, give knowledge to take knowledge.
 
 It’s never too late to transition to InfoSec field if you’re truly passionate about it – One of the questions I was asked a couple of times is “Is now too late to start or switch to InfoSec”. I believe knowledge is gained through your years of experience but more than that I strongly believe your choice to be an infosec professional is what matters the most, want to try make a change to infosec? Take a leap!
-
- 
-
-Wanna chat? Add me on
-
-[LinkedIn](https://www.linkedin.com/in/vinaysudheer/)
-
-[Twitter](https://twitter.com/VinaySudheer17)
