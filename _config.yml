@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "X3522A"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "x3522A"
+name                     : "Began to Believe"
 description              : "An amazing website."
 url                      : "https://vinaysudheer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
