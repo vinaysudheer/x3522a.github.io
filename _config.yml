@@ -99,7 +99,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Idi0t"
   location         : "God's own Country"
-  email            : "vinaybsudheer@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
