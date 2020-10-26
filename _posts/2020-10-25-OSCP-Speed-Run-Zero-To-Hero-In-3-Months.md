@@ -52,9 +52,9 @@ After rooting the BoF box I had 25 points in hand. Next I rooted the 10 point ma
 Reporting was the next step once the 24 hour exam got over. I took screenshot at each and every progress I made in the exam, so didn't have much difficulty in putting together the necessary proof and screenshots into the report template. Regarding the template I found [whoisflynn](https://github.com/whoisflynn/OSCP-Exam-Report-Template) to be the best among custom OSCP templates. This gets the job done as everything is set up in order, you just have to paste in the screenshots, explanations and the proofs.
 
 ## Thoughts
-+ Make notes of all the machines you have rooted in your preparation so far. This will become handy as there is a possibility that you might encounter that tecnology in your exam.
++ Make notes of all the machines you have rooted in your preparation so far. This will become handy as there is a possibility that you might encounter that technology in your exam.
 + Getting a reverse shell could be tricky sometimes, the port you are listening on might be firewalled. So try to figure out the ports which could possibly be whitelisted.
-+ Do your enumeration on all the open ports thoroughly. Let's say the default SSH port running on port 22 might not be running SSH server ;)
++ Do your enumeration on all the open ports thoroughly. Let's say the default SSH service running on port 22 might not be running an SSH server, instead it could be something else ;)
 + Manage your time properly - if you're stuck with a box for a very long period of time I'd suggest you to pause that one, take a short break and move to the next machine
 + The most important thing you have to keep in mind is not to burn out during the exam. Take regular breaks, keep snacks and drinks aside while taking the exam. Drink lots of water.
 + Don't lose your hope if you don't make it at the first attempt. I believe that OSCP is all about the journey and not the destination. The second journey and effort you make would be better in terms of the knowledge you'd acquire than that person who passed the exam in the first attempt.
