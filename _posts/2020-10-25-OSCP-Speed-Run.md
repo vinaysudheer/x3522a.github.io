@@ -4,7 +4,6 @@ title: "OSCP Speed Run"
 date: 2020-10-25
 classes: wide
 header:
-  Zero to Hero in 3 months
   teaser: /assets/images/OSCP/oscp.png
 tags:
   - OSCP
@@ -12,6 +11,7 @@ tags:
   - Offensive Security
   - Penetration Testing
 ---
+
 Another cliché OSCP review? Yes.
 
 On August 3rd 2020, I gave a shot at the OSCP exam. I Pwned 4 out of the 5 machines(I wasn't able to get the initial foothold of the 25 point hard one) and officially got the result as ceritified in 4 days after the exam. I've been eyeing for getting OSCP certified ever since I got my job into infosec but since I possess a unique quality named "Procrastination" I kept postpoining the actual preparation for it to the later stage.
