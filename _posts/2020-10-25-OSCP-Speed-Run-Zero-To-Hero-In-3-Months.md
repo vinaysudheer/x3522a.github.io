@@ -24,8 +24,7 @@ During the quarantine period I dedicated my time for the actual preparation of t
 This contains everything you require to pass the exam, explained in the most accurate manner.
 
 My takeaways:
-+ Basic understanding of Linux
-+ Knowledge of the Linux Terminal, Windows CMD
++ Basic understanding of Linux Terminal and Windows CMD commands
 + Solid understanding of Networking, TCP/IP, Web
 + Understanding of infosec concepts
 + A familiarity with scripting languages, one should be able to make out what the script is intended for
