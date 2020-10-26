@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "OSCP Speed Run"
+title: "OSCP Speed Run Zero to Hero in 3 Months"
 date: 2020-10-25
 classes: wide
 header:
