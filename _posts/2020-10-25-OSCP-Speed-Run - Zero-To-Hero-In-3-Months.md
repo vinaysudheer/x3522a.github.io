@@ -19,7 +19,8 @@ On August 3rd 2020, I gave a shot at the OSCP exam. I Pwned 4 out of the 5 machi
 Now this is not a blog where I boast about obtaining the OSCP in my first attempt, but rather I aim to guide others who is already preparing or planning to take the exam. If I could obtain the ceritifcation in a matter of 3 months, anyone can, maybe in a lesser period. I'll try to keep this blog as short and precise as possible.
 
 ## Training Plan
-During the quarantine period I dedicated my time for the actual preparation of the course. Initialy I alloted time to get a clear picture of the exam, how difficult could possibily be the boxes, and read lot's of blogs relating to the course. After a while I found the holy bible for OSCP(atleast to me) TJnulls OSCP prep guide: https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html. This contains everything you require to pass the exam, explained in the most accurate manner.
+During the quarantine period I dedicated my time for the actual preparation of the course. Initialy I alloted time to get a clear picture of the exam, how difficult could possibily be the boxes, and read lot's of blogs relating to the course. After a while I found the holy bible for OSCP(atleast to me) [TJnulls OSCP prep guide]https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html.
+This contains everything you require to pass the exam, explained in the most accurate manner.
 
 My takeaways:
 + Basic understanding of Linux
@@ -29,13 +30,14 @@ My takeaways:
 + A familiarity with scripting languages, one should be able to make out what the script is intended for
 
 My preparation started by the middle of April 2020 till the first week of June. During that period I practiced on the retired boxes in HackTheBox platform following the list which was curated by TJnull.
-![TJnull Boxes](/assets/images/OSCP/tjnull.png)
+
+[TJnull Boxes](/assets/images/OSCP/tjnull.png)
 
 I'd suggest to start off by rooting the easy machines first and then later move to the medium and hard ones. Initially when I started solving the machines I was only reliant on the walkthroughs as I wasn't able to root them on my own methodologies.
 Good authors of walkthroughs:
-Ippsec: https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
-Rana Khalil: https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/
-0xdf: https://0xdf.gitlab.io/
++ [Ippsec]https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
++ [Rana Khalil]https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/
++ [0xdf]https://0xdf.gitlab.io/
 
 For me this phase was dreadful and frustrating as each machine I solved with the help of walkthroughs, I was losing my confidence at the same time. I went through around 20 machines from the list and decided to take the PWK course head on.
 
@@ -46,7 +48,7 @@ Honestly I found the labs to be pretty easy compared to HTB or any of the boxes 
 I didn't wanna wait much longer after my labs got ended, so I scheduled the exam as soon as my lab time got over. Scheduled the exam for 3rd August 2020 at 7.30AM IST. I started off with the 25 point BoF machine since I was faily confident on by Buffer Overflow methodology, but here I lost track the count of bad characters in the program which lead to creating a payload which wasn't right for the program. I wasted more than 2 hours just to finally go back and debug the whole program again.
 After rooting the BoF box I had 25 points in hand. Next I rooted the 10 point machine, which was very easy - there was no need for Privesc as the initial exploit would give you the root shell. Both the 20 point machines were a good challenge, I struggled to get the privilege escalation on one of the 20 point box, the privilege escalation was right in front of my eyes but took me a while to find it. Almost 19 hours had gone by when I rooted the 4 machines and obtained enough points to pass the exam. I took a shot at the final 25 point machine but that was way out of my league as I struggled to find out the exploit to get the initial shell in the box. With a few hours remaining I gave the white flag and ended the exam.
 
-Reporting was the next step once the 24 hour exam got over. I took screenshot at each and every progress I made in the exam, so didn't have much difficulty in putting together the necessary proof and screenshots in the repot template. Regarding the template I found https://github.com/whoisflynn/OSCP-Exam-Report-Template to be the best among custom OSCP templates. This gets the job done as everything is set up in order, you just have to paste in the screenshots, explanations and the proofs.
+Reporting was the next step once the 24 hour exam got over. I took screenshot at each and every progress I made in the exam, so didn't have much difficulty in putting together the necessary proof and screenshots in the repot template. Regarding the template I found [whoisflynn]https://github.com/whoisflynn/OSCP-Exam-Report-Template to be the best among custom OSCP templates. This gets the job done as everything is set up in order, you just have to paste in the screenshots, explanations and the proofs.
 
 ## Thoughts
 + Make notes of all the machines you have rooted in your preparation so far. This will become handy as there is a possibility that you might encounter that tecnology in your exam.
