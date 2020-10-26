@@ -4,7 +4,7 @@ title: "Landing Your First InfoSec Job"
 date: 2020-08-15
 classes: wide
 header:
-  teaser: /assets/images/avatar.jpg
+  teaser: /assets/images/Infosec/job.png
 tags:
   - Introduction
 ---
