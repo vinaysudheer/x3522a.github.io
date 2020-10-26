@@ -19,7 +19,8 @@ On August 3rd 2020, I gave a shot at the OSCP exam. I Pwned 4 out of the 5 machi
 Now this is not a blog where I boast about obtaining the OSCP in my first attempt, but rather I aim to guide others who is already preparing or planning to take the exam. If I could obtain the ceritifcation in a matter of 3 months, anyone can, maybe in a lesser period. I'll try to keep this blog as short and precise as possible.
 
 ## Training Plan
-During the quarantine period I dedicated my time for the actual preparation of the course. Initialy I alloted time to get a clear picture of the exam, how difficult could possibily be the boxes, and read lot's of blogs relating to the course. After a while I found the holy bible for OSCP(atleast to me) [TJnulls OSCP prep guide]https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html.
+During the quarantine period I dedicated my time for the actual preparation of the course. Initialy I alloted time to get a clear picture of the exam, how difficult could possibily be the boxes, and read lot's of blogs relating to the course. After a while I found the holy bible for OSCP(atleast to me)
+[TJnulls OSCP prep guide]https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html.
 This contains everything you require to pass the exam, explained in the most accurate manner.
 
 My takeaways:
@@ -31,7 +32,7 @@ My takeaways:
 
 My preparation started by the middle of April 2020 till the first week of June. During that period I practiced on the retired boxes in HackTheBox platform following the list which was curated by TJnull.
 
-[TJnull Boxes](/assets/images/OSCP/tjnull.png)
+![TJnull Boxes](/assets/images/OSCP/tjnull.png)
 
 I'd suggest to start off by rooting the easy machines first and then later move to the medium and hard ones. Initially when I started solving the machines I was only reliant on the walkthroughs as I wasn't able to root them on my own methodologies.
 Good authors of walkthroughs:
