@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: single
 title: "CRTP bites the dust. CRTP Bootcamp Review"
@@ -11,6 +10,7 @@ tags:
   - Pentester Academy
   - Windows Active Directory
   - Red Teaming
+
 ---
 
 It was back in August 2020 that I achieved the OSCP certification. Ever since I cleared the OSCP I was looking for the next certification to take next, sadly, it took me 6 months to finally make up my mind and to enroll for the CRTP certification. I chose to go for CRTP purely due to the fact that its and introductory level Active Directory certifcation, and in this course the instructor Nikhil Mittal takes the beginners approach in the 4 live sessions that we have with him. Nikhil is also the author of [Nishang](https://github.com/samratashok/nishang), a popular collection of scripts which is used in Penetration Testing and Red Teaming.
@@ -53,4 +53,3 @@ The very next day my lab access ended I took the exam. The exam is an assumed br
 + [ired.team](https://www.ired.team/)
 + [The Dog Whisperers Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
 + [Nikhil's Personal Blog](http://www.labofapenetrationtester.com/)
-```
