@@ -13,11 +13,11 @@ tags:
 
 ---
 
-It was back in August 2020 that I achieved the OSCP certification. Ever since I cleared the OSCP I was looking for the next certification to take next, sadly, it took me 6 months to finally make up my mind and to enroll for the CRTP certification. I chose to go for CRTP purely due to the fact that it's an introductory level Active Directory certifcation, and in this course the instructor Nikhil Mittal takes the beginners approach in the 4 live sessions that we have with him. Nikhil is also the author of [Nishang](https://github.com/samratashok/nishang), a popular collection of scripts which is used in Penetration Testing and Red Teaming.
+It was back in August 2020 that I achieved the OSCP certification. Ever since I cleared the OSCP I was searching for which certification to take next, sadly, it took me 6 months to finally make up my mind and to enroll for the CRTP certification. I chose to go for CRTP purely due to the fact that it's an introductory level Active Directory certifcation, and in this course the instructor Nikhil Mittal takes the beginners approach in the 4 live sessions that we have with him. Nikhil is also the author of [Nishang](https://github.com/samratashok/nishang), a popular collection of scripts which is used in Penetration Testing and Red Teaming.
 
 ## CRTP Bootcamps
 
-To anyone who's planning to take the CRTP certification I'd say go for the [Pentester Academy Bootcamps](https://bootcamps.pentesteracademy.com/course/active-directory-6) rather than taking the course listed [here](https://www.pentesteracademy.com/activedirectorylab). I'm suggesting this because at the time of writing this blog the certification is available at a great discount for $299, for this you get 4 weeks of lab access, 4 live sessions(1 live session per week) with the instructor Nikhil Mittal and an attempt to take the examination as well. The quality of live sessions are amazing, since it's a live session you can ask any query's or clarifications to the instructor directly.
+To anyone who's planning to take the CRTP certification I'd say go for the [Pentester Academy Bootcamps](https://bootcamps.pentesteracademy.com/course/active-directory-6) rather than taking the course listed [here](https://www.pentesteracademy.com/activedirectorylab). I'm suggesting this because at the time of writing this blog the certification is available at a great discount for $299, for this you get 4 weeks of lab access, 4 live sessions(1 live session per week) with the instructor Nikhil Mittal and an attempt to take the examination as well. The quality of live sessions are amazing, since it's a live session you can ask any query or clarifications to the instructor directly.
 
 Topics covered in the course:
 + Active Directory Enumeration
